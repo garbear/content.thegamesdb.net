@@ -9,5 +9,12 @@
     <description lang="en_GB">An open, online database for video game fans.</description>
     <website>https://thegamesdb.net</website>
     <platform>all</platform>
+    <assets>
+      <screenshot>resources/screenshot-01.jpg</screenshot>
+      <screenshot>resources/screenshot-02.jpg</screenshot>
+      <screenshot>resources/screenshot-03.jpg</screenshot>
+      <screenshot>resources/screenshot-04.jpg</screenshot>
+      <screenshot>resources/screenshot-05.jpg</screenshot>
+    </assets>
   </extension>
 </addon>
