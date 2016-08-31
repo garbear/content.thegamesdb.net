@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="content.thegamesdb.net"
+       name="TheGamesDB.net"
+       version="1.0.0">
+  <extension point="kodi.content.game"
+             collection="/ipns/QmavdzY2gJYapB61knu4MBU2V24EUKBjVZSLwnMhvafRsP" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">TheGamesDB.net</summary>
+    <description lang="en_GB">An open, online database for video game fans.</description>
+    <website>https://thegamesdb.net</website>
+    <platform>all</platform>
+  </extension>
+</addon>
